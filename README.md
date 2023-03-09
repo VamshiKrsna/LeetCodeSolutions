@@ -1,3 +1,3 @@
 # LeetCodeSolutions
 
-Uploading every single LeetCode Problem Solutions I solved.
+Uploading files of every single LeetCode Problem I solved.
